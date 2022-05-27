@@ -1,0 +1,20 @@
+<notas>
+    <nota id="1">
+    <fecha>07/02/2022</fecha>
+    <hora>17:30</hora>
+    <p>Sacar al perro</p>
+    </nota>
+
+    <nota id="2">
+    <fecha>07/02/2022</fecha>
+    <hora>12:00</hora>
+    <p>Comprar pan</p>
+    </nota>
+
+    <nota id="paco">
+    <fecha>09/02/2022</fecha>
+    <hora>14:00</hora>
+    <p>Comer</p>
+    </nota>
+    
+</notas>
